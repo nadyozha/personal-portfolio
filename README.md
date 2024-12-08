@@ -200,6 +200,36 @@ Key features include:
 
 ------
 
+## [Memory Game](https://nadyozha.github.io/memory-game/)
+
+A memory training game where players test their ability to recall numbers.
+Key features include:
+- Dynamic game board with randomized number placements
+- Intuitive input system for recalling numbers
+
+**Technologies:**
+- **Language:** JavaScript
+- **Styling:** CSS
+- **Hosting:** GitHub Pages
+
+---
+
+## [Floor Screed Calculator](https://nadyozha.github.io/floor-screed-calculator/)
+
+A simple and intuitive calculator to estimate the amount of materials required for a floor screed.
+Key features include:
+- Input fields for room dimensions and screed thickness
+- Automatic calculation of material volume
+- Easy-to-use interface
+
+**Technologies:**
+- **Language:** JavaScript
+- **Styling:** CSS
+- **Hosting:** GitHub Pages
+
+
+------
+
 
 # HTML, CSS, Bootstrap & Preprocessors Projects
 
