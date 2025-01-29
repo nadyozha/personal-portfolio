@@ -54,7 +54,7 @@ Key features include:
 
 ---
 
-## [World Wise App](https://worldwise-three-ashy.vercel.app/)
+## [World Wise App](https://nadozha-worldwise.netlify.app/)
 
 An application for travelers, designed to track and document travel experiences.
 Key features include:
