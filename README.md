@@ -36,7 +36,8 @@ An application designed for the staff of **The Wild Oasis** hotel. Key features 
 ## [Fast React Pizza](https://fast-react-pizza-zeta-seven.vercel.app/)
 
 An online store for a pizzeria offering a user-friendly shopping experience.
-Key features include:
+
+**Key features include:**
 - Simple registration by name
 - Pizza list fetched from the database
 - Online ordering with the ability to:
@@ -45,12 +46,16 @@ Key features include:
 - Payment is available upon delivery (online payment is not supported)
 - Ability to update order priority after placement
 - Order tracking by ID
-- Location detection to autofill the address
+- Location detection (geolocation) to autofill the address
+- Error handling in form actions (for unexpected scenarios during order placement)
 
-**Technologies:**
-- **Styling:** Tailwind CSS, Styled Components
-- **Routing:** React Routers
-- **State management:** Redux
+**Technologies used:**
+- **React Router** with data loading
+- **Redux Toolkit**, including middleware and Redux Thunks (`createAsyncThunk`)
+- **Tailwind CSS** and **Styled Components** for styling
+- **Integrating Geolocation** for autofilling the address
+- **Error Handling** in form actions
+- **Backend** for data persistence and processing
 
 ---
 
