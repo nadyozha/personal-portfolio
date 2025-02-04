@@ -25,7 +25,7 @@ Key features include:
 A **Full Stack App** with both a robust **BackEnd** and a dynamic **FrontEnd**, designed for the staff of **The Wild Oasis** hotel.
 
 **Key Features:**
-- User authentication (including Google login)
+- User authentication
 - Managing bookings (check-in and check-out of guests)
 - Adding, editing, and deleting accommodation options
 - Sorting and filtering tools
