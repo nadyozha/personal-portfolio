@@ -6,7 +6,8 @@ Welcome to my portfolio! Here you will find the projects I have worked on, along
 
 ## [The Wild Oasis Website](https://the-wild-oasis-website-one-xi.vercel.app/)
 
-A modern website inspired by AirB&B functionality. It allows users to search for and book accommodations in unique locations.
+A modern website inspired by AirB&B functionality.
+It allows users to search for and book accommodations in unique locations.
 Key features include:
 - User authentication (login functionality)
 - Pagination for easy navigation
@@ -19,17 +20,31 @@ Key features include:
 
 ---
 
-## [The Wild Oasis App](https://the-wild-oasis-six-teal.vercel.app/)
+## [The Wild Oasis Management App](https://the-wild-oasis-six-teal.vercel.app/)
 
-An application designed for the staff of **The Wild Oasis** hotel. Key features include:
+A **Full Stack App** with both a robust **BackEnd** and a dynamic **FrontEnd**, designed for the staff of **The Wild Oasis** hotel.
+
+**Key Features:**
 - User authentication (including Google login)
 - Managing bookings (check-in and check-out of guests)
 - Adding, editing, and deleting accommodation options
 - Sorting and filtering tools
 
 **Technologies:**
+
+**BackEnd:**
 - **Database:** Supabase
+
+**FrontEnd:**
+- **Routing:** React Router
 - **State management:** React Query
+- **Styling:** Styled Components
+- **Global State:** Context API
+- **Forms:** React Hook Form
+- **Icons:** React Icons
+- **Notifications:** React Hot Toast
+- **Data Visualization:** Recharts
+- **Date Utilities:** date-fns
 
 ---
 
