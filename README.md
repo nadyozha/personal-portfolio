@@ -42,6 +42,7 @@ A **Full Stack App** with both a robust **BackEnd** and a dynamic **FrontEnd**, 
 
 **BackEnd:**
 - **Database:** Supabase
+- **Hosting & Deployment:** Vercel
 
 **FrontEnd:**
 - **Routing:** React Router
@@ -53,7 +54,6 @@ A **Full Stack App** with both a robust **BackEnd** and a dynamic **FrontEnd**, 
 - **Notifications:** React Hot Toast
 - **Data Visualization:** Recharts
 - **Date Utilities:** date-fns
-- **Hosting & Deployment:** Vercel
 
 ---
 
