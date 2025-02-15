@@ -6,17 +6,25 @@ Welcome to my portfolio! Here you will find the projects I have worked on, along
 
 ## [The Wild Oasis Website](https://the-wild-oasis-website-one-xi.vercel.app/)
 
-A modern website inspired by AirB&B functionality.
+A modern full-stack web application inspired by Airbnb functionality.
 It allows users to search for and book accommodations in unique locations.
-Key features include:
-- User authentication (login functionality)
-- Pagination for easy navigation
-- Theme management (light and dark modes)
-- Sorting and filtering options
 
-**Technologies:**
+### Key Features:
+- **User Authentication:** NextAuth with Google authentication
+- **Server-Side Rendering (SSR):** Improves performance and SEO
+- **Middleware:** Handles authentication and access control
+- **Pagination:** Enables easy navigation through listings
+- **Theme Management:** Supports both light and dark modes
+- **Sorting & Filtering:** Helps users find the best accommodations
+- **Datepicker:** Simplifies booking date selection
+- **Deployment:** Hosted on Vercel
+
+### **Technologies Used:**
 - **Framework:** Next.js
-- **Database:** Supabase
+- **Database & Backend:** Supabase
+- **Authentication:** NextAuth (Google authentication)
+- **Styling:** Tailwind CSS
+- **Hosting & Deployment:** Vercel
 
 ---
 
