@@ -86,16 +86,24 @@ An online store for a pizzeria offering a user-friendly shopping experience.
 ## [World Wise App](https://nadozha-worldwise.netlify.app/)
 
 An application for travelers, designed to track and document travel experiences.
-Key features include:
-- Interactive map for marking visited locations
-- List of cities and countries from your travels
-- Convenient tracking of the number of visited countries
-- Ability to record visit dates and add descriptions for each location
 
-**Technologies:**
-- **Framework:** React Vite
+### Key Features:
+- **Interactive Map:** Mark visited locations using Leaflet
+- **Travel Log:** Maintain a list of visited cities and countries
+- **Progress Tracking:** See the number of visited countries
+- **Custom Notes:** Record visit dates and add descriptions for each location
+- **Real-Time Location Detection:** Quickly find your current position on the map with a single click
+- **Error Handling:** Implemented Error Boundaries for a smooth user experience
+
+### **Technologies Used:**
+- **Frontend Framework:** React Vite
 - **Routing:** React Router
 - **Styling:** CSS Modules
+- **Mapping:** Leaflet Library
+- **Geolocation:** Browser API for real-time location tracking
+- **Backend:** Netlify Functions (Serverless)
+- **Server-Side Code:** Node.js
+- **Deployment:** Hosted on Netlify
 
 ---
 
